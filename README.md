@@ -1,2 +1,8 @@
-# flask_rtsp_streamer
-Flask RTSP Streamer
+# Flask RTSP Streamer
+
+Сервис конвертирует RTSP поток в JPG и транслирует его на странице /live
+
+TODO:
+    - Добавление базы данных URL камер
+    - Добавление в GET запрос id камеры
+    - Обработка исключений
